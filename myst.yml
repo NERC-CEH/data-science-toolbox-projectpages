@@ -13,8 +13,11 @@ project:
       children: 
         - file: about_this_project/vision.md
         - file: about_this_project/get_involved.md
+        - file: about_this_project/contributing_a_method.md
         - file: about_this_project/utilising_the_toolbox.md
         - file: about_this_project/table_of_contents.md 
+        - file: notebook_guidance/template_notebook.ipynb
+        - file: notebook_guidance/notebook_metadata_guidance.md
         - file: about_this_project/cite.md
         - title: Contributing Projects 
           children: 
