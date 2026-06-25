@@ -8,7 +8,7 @@ authors:
 
 | Methods | Key Concepts | Key Datasets |
 | :--- | --- | ---: |
-| [Working with CEH-GEAR-1hr Rainfall Data](<../methods/fdri-gridded-notebooks/notebooks/CEH-GEAR-1hr/gear_netcdf_python>) | Data Access, NetCDF, Gridded Data, Time Series Extraction, Spatial Mapping, Catchment Subsetting | CEH-GEAR-1hr Gridded Estimates of Areal Rainfall (EIDC), NRFA River Catchment Shapefiles.
+| [Working with CEH-GEAR-1hr Rainfall Data](<../../methods/fdri-gridded-notebooks/notebooks/CEH-GEAR-1hr/gear_netcdf_python>) | Data Access, NetCDF, Gridded Data, Time Series Extraction, Spatial Mapping, Catchment Subsetting | CEH-GEAR-1hr Gridded Estimates of Areal Rainfall (EIDC), NRFA River Catchment Shapefiles.
 
 
 
