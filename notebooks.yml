@@ -85,3 +85,8 @@ notebooks:
     path: prithvi-uk-crop-fine-tuning.ipynb
     assets:
       - crop-classification.png
+
+  - name: fdri-gridded-notebooks
+    url: https://github.com/Jez-Carter/fdri-gridded-notebooks.git
+    branch: main
+    path: notebooks/CEH-GEAR-1hr/gear_netcdf_python.ipynb
